@@ -1,5 +1,5 @@
 
-# The CyberSecurity Roadmap: CTF Practitioner Room (90+ Free Rooms)
+# CTF Practitioner Roadmap (90+ Free Rooms)
 
 ### 📊 GitHub Repo Stats
 
