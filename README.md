@@ -14,7 +14,7 @@
 ---
 
 
-This repository provides **90** curated list of **completely free TryHackMe rooms and other CTF challenges `hackthebox`** featuring the **latest updated 🔄and free contents** to help **absolute beginners and cybersecurity practitioners ** build foundational skills in Cybersecurity🔓🕵️‍♂️.  
+This repository provides **90** curated list of **completely free TryHackMe rooms, letsdefend and other CTF challenges `hackthebox`** featuring the **latest updated 🔄and free contents** to help **absolute beginners and cybersecurity practitioners ** build foundational skills in Cybersecurity🔓🕵️‍♂️.  
 
 ## 🛡️ Maintainer  
 
@@ -27,7 +27,7 @@ This repository provides **90** curated list of **completely free TryHackMe room
 If you appreciate the time and effort put into curating and maintaining this repository, consider showing your support.  You can send a tip (anonymously or not) via Bitcoin:
 
 **🟧 BTC (Bitcoin):**  
-`bc1cwalletaddresshere`
+
 ### 🔖 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -51,22 +51,28 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 - 🔐 [Cryptography and Hash Cracking](#cryptography-and-hash-cracking)  
     *Introduction to cryptography, basic challenges, and practical hashing problems.*
     
-- 🛡️ [Cybersecurity Fundamentals](#cybersecurity-fundamentals)  
+- 🛡 [Cybersecurity Fundamentals](#cybersecurity-fundamentals)  
   *Core concepts, Linux/Windows basics, networking, and SOC/Red Team introductions.*
 
-- 🧪[ Pentesting and Exploitation](#pentesting-and-exploitation)  
+- 🥷 [ Pentesting and Exploitation](#pentesting-and-exploitation)  
   *Reconnaissance, privilege escalation, Metasploit, and Active Directory attacks.*
 
-- 🌐 [ Web Pentesting](#web-pentesting)  
+- 🖥💣 [ Web Pentesting](#web-pentesting)  
   *OWASP Top 10, web application flaws, and real-world web attack simulations.*
 
-- 🔥[ AppSec (Application Security)](#appsec)  
+- 🕵️‍♂️ [Forensics](#forensics) 
+	*Collecting, analyzing, and preserving digital evidence from  digital evidence and memory*
+	
+- ⚙️🛡️[ AppSec (Application Security)](#appsec)  
   *Secure code review and open-source security practices.*
+
+- 🕵️‍♀️📊[Threat Intelligence](#threat-intelligence)  
+	*Identifying, analyzing, gathering actionable intelligence, including adversary profiling and threat hunting.*
 
 - 🧱 [ Firewall and IDS](#firewall-and-ids)  
   *Network defense, Snort, and intrusion detection techniques.*
 
-- 🧭 [ CVEs](#cves)  
+- 🧩 [ CVEs](#cves)  
   *Hands-on practice with recent, real-world vulnerabilities.*
 
 - 🚀 [ Introductory CTFs](#introductory-ctf)  
@@ -100,7 +106,10 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 ### Cryptography and Hash Cracking
 
 - [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies) 
-- [Cryptography Baiscs](https://tryhackme.com/room/cryptographybasics)
+- [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
+[Cryptology Fundamentals](https://app.hackviser.com/academy/trainings/cryptology-fundamentals?s=categories/cryptanalysis)
+[Introduction to Cryptography](https://app.letsdefend.io/training/lessons/introduction-to-cryptography)
+[Cryptanalysis](https://app.hackviser.com/labs/cryptanalysis)
 - [Breaking Crypto](https://tryhackme.com/room/breakingcryptothesimpleway)
 - [Crack the Hash]( https://tryhackme.com/room/crackthehash)
 - [Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
@@ -110,26 +119,35 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 ### CyberSecurity Fundamentals
 
 + [Introductory Networking](https://tryhackme.com/room/introtonetworking)
++ [Introduction to Network Protocols](https://app.letsdefend.io/training/lesson_detail/introduction-to-network-protocols)
++ [Networking Fundamentals](https://app.hackviser.com/academy/trainings/network-fundamentals?s=categories/network)
+[Network Fundamentals II](https://app.letsdefend.io/training/lessons/network-fundamentals-ii)
++ [Python Basics](https://tryhackme.com/room/pythonbasics)
 + [Intro Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 + [Active Directory Basics](https://tryhackme.com/room/winadbasics)
-+ [Python Basics](https://tryhackme.com/room/pythonbasics)
++ [SOC Fundamentals](https://app.letsdefend.io/training/lesson_detail/introduction-to-soc)
 + [Security Principles](https://tryhackme.com/room/securityprinciples)
 
 - **Website**
   
 	+ [Web Application Basics](https://tryhackme.com/room/webapplicationbasics)
-	+ [Intro To Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
 	+ [How Website Works](https://tryhackme.com/room/howwebsiteswork)
+	+ [Intro To Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity)
+	+ [Web Application Security  Fundamentals](https://app.hackviser.com/academy/trainings/web-fundamentals?s=categories/web-application-security#client-and-server-model)
 	
 + **Linux Fundamentals**
   
+	+ [Linux Fundamentals](https://app.hackviser.com/academy/trainings/linux-fundamentals?s=categories/linux)
 	+ [Linux fundamentals 1](https://tryhackme.com/room/linuxfundamentalspart1)
+	
 
 + **WIndows Fundamentals**
-  
+	- [Windows Fundamentals](https://app.hackviser.com/academy/trainings/windows-fundamentals?s=categories/windows)
+	- [WIndows Fudamentals Course](https://app.letsdefend.io/training/lesson_detail/about-the-windows-fundamentals-course)
 	- [WIndows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 	+ [Windows Fundamnetals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 	+ [WIndows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+	+ [Windows Command Line KungFu](https://app.hackviser.com/academy/trainings/using-windows-command-line?s=categories/windows)
    
 + [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 + [RedTeam fundamentals](https://tryhackme.com/room/redteamfundamentals)
@@ -207,8 +225,28 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 	- [Insecure Deserialization](https://tryhackme.com/room/insecuredeserialisation)
 	- [HTTP/2 Request Smuggling](https://tryhackme.com/room/http2requestsmuggling)
 	- [SSRF](https://tryhackme.com/room/ssrfhr)
-	- 
+	
 
+### Forensics
+
+- [Digital Forensics](https://app.hackviser.com/labs/digital-forensics)
+- [Browser Forensics](https://app.letsdefend.io/training/lesson_detail/introduction-to-browser-forensics)
+- [MBR & GPT Analysis](https://tryhackme.com/room/mbrandgptanalysis)
+- [Compromised Windows Analysis](https://tryhackme.com/room/compromisedwindowsanalysis)
+
++ **Memory Forensics**
+	- [Memory Analysis Intro](https://tryhackme.com/room/memoryanalysisintroduction)
+	- [Volatility Essentials](https://tryhackme.com/room/volatilityessentials)
+
+- **Challenges**
+	+ **[HackTrace](https://app.hackviser.com/scenarios/hacktrace)**
+  	+ **[Security Footage](https://tryhackme.com/room/securityfootage)**
+	+ **[ProcDump](https://app.letsdefend.io/challenge/procdump)** 
+	+ **[LinuxMemoryForensics Lab](https://app.letsdefend.io/challenge/linux-memory-forensics)** 
+	+ **[Memory Analysis Lab](https://app.letsdefend.io/challenge/memory-analysis)** 
+	+ **[Windows Forensics Lab](https://app.letsdefend.io/challenge/windows-forensics)**
+	+ **[NTFS Forensics Lab](https://app.letsdefend.io/challenge/ntfs-forensics)** 
+	+ **[Port Scan Activity](https://app.letsdefend.io/challenge/port-scan-activity)**
 
 ### Firewall and IDS
 
@@ -219,6 +257,16 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 ### AppSec
 
 + [Snyk](https://tryhackme.com/room/snykcode)
+
+
+### Threat Intelligence
++ [Intro to CTI ](https://tryhackme.com/room/cyberthreatintel)
++ [Intro to CTI Lifecycle ](https://app.letsdefend.io/training/lesson_detail/cti-lifecycle)
++ [Threat Intel Tools](https://tryhackme.com/room/threatinteltools)
++ [Red Team Threat Intel](https://tryhackme.com/room/redteamthreatintel)
++ [File and Hash Threat Intel](https://tryhackme.com/room/fileandhashthreatintel)
++ [Threat Detection](https://tryhackme.com/room/windowsthreatdetection1)
++ [Threat Intel For Soc](https://tryhackme.com/room/threatintelligenceforsoc)
 
 
 ### Introductory CTF
@@ -237,6 +285,11 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 * [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 * [SOC L1 Reporting](https://tryhackme.com/room/socl1alertreporting)
 
+
+## 🔥 Live Trending CTF Events
+- [PwnBox Exhibition](https://ctf.hackthebox.com/event/details/pwnbox-exhibition-ctf-2376)
+
++ **Limited Time**  [Holmes CTF 2025](https://ctf.hackthebox.com/event/details/holmes-ctf-2025-2536)
 
 
 
