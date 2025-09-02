@@ -14,7 +14,7 @@
 ---
 
 
-This repository provides **90** curated list of **completely free TryHackMe rooms, letsdefend and other CTF challenges `hackthebox`** featuring the **latest updated 🔄and free contents** to help **absolute beginners and cybersecurity practitioners ** build foundational skills in Cybersecurity🔓🕵️‍♂️.  
+This repository provides **90** curated list of **completely free TryHackMe rooms, letsdefend and other CTF challenges `hackthebox`** featuring the **latest updated 🔄and free contents** to help **absolute beginners and cybersecurity practitioners** build foundational skills in Cybersecurity🔓🕵️‍♂️.  
 
 ## 🛡️ Maintainer  
 
@@ -107,9 +107,9 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 
 - [Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies) 
 - [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
-[Cryptology Fundamentals](https://app.hackviser.com/academy/trainings/cryptology-fundamentals?s=categories/cryptanalysis)
-[Introduction to Cryptography](https://app.letsdefend.io/training/lessons/introduction-to-cryptography)
-[Cryptanalysis](https://app.hackviser.com/labs/cryptanalysis)
+- [Cryptology Fundamentals](https://app.hackviser.com/academy/trainings/cryptology-fundamentals?s=categories/cryptanalysis)
+- [Introduction to Cryptography](https://app.letsdefend.io/training/lessons/introduction-to-cryptography)
+- [Cryptanalysis](https://app.hackviser.com/labs/cryptanalysis)
 - [Breaking Crypto](https://tryhackme.com/room/breakingcryptothesimpleway)
 - [Crack the Hash]( https://tryhackme.com/room/crackthehash)
 - [Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
@@ -121,7 +121,7 @@ Unleash Your Daemon — Wake Up the Beast! 🐉💥
 + [Introductory Networking](https://tryhackme.com/room/introtonetworking)
 + [Introduction to Network Protocols](https://app.letsdefend.io/training/lesson_detail/introduction-to-network-protocols)
 + [Networking Fundamentals](https://app.hackviser.com/academy/trainings/network-fundamentals?s=categories/network)
-[Network Fundamentals II](https://app.letsdefend.io/training/lessons/network-fundamentals-ii)
+- [Network Fundamentals II](https://app.letsdefend.io/training/lessons/network-fundamentals-ii)
 + [Python Basics](https://tryhackme.com/room/pythonbasics)
 + [Intro Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 + [Active Directory Basics](https://tryhackme.com/room/winadbasics)
